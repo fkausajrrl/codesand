@@ -1,2 +1,0 @@
-# codesand
-Created with CodeSandbox
